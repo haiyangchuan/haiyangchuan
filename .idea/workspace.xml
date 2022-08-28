@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c513175f-8f9e-4a28-a8ad-4db9a0257295" name="Changes" comment="twe">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/haiyangchuan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/groups/GroupsOnMethod1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/groups/GroupsOnMethod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/groups/GroupsOnMethod3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/multiThread/MultiThreadOnAnnotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/multiThread/MultiThreadOnXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/paramter/DateProvoiderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/paramter/ParamterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/suite/DependTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/suite/ExpectedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/suite/TimeOutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/resources/Paramter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/resources/groupsOnClass.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/resources/multiThread.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/suite/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_maven/src/main/resources/suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo_maven/src/main/resources/suite.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2DeGTJCUa0OcFSAXFASkM7lbCBR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "D:/home/jb/interf/haiyangchuan",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenRunHelper"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\home\jb\interf\haiyangchuan\demo_maven\src\main\java\org\example\suite" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.groups" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TimeOutTest">
+    <configuration name="D:/home/jb/interf/haiyangchuan/demo_maven/src/main/resources/multiThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo_maven" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/demo_maven/src/main/resources/multiThread.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/home/jb/interf/haiyangchuan/demo_maven/src/main/resources/suite.xml" type="TestNG" nameIsGenerated="true">
+      <module name="demo_maven" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/demo_maven/src/main/resources/suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateProvoiderTest (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo_maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.paramter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.paramter" />
+      <option name="MAIN_CLASS_NAME" value="org.example.paramter.DateProvoiderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateProvoiderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo_maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.paramter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.paramter" />
+      <option name="MAIN_CLASS_NAME" value="org.example.paramter.DateProvoiderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreadOnAnnotion" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo_maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.multiThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.multiThread" />
+      <option name="MAIN_CLASS_NAME" value="org.example.multiThread.MultiThreadOnAnnotion" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo_maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.suite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.suite" />
+      <option name="MAIN_CLASS_NAME" value="org.example.suite.TimeOutTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TimeOutTest" />
+        <item itemvalue="TestNG.D:/home/jb/interf/haiyangchuan/demo_maven/src/main/resources/multiThread.xml" />
+        <item itemvalue="TestNG.MultiThreadOnAnnotion" />
+        <item itemvalue="TestNG.DateProvoiderTest" />
+        <item itemvalue="TestNG.DateProvoiderTest (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c513175f-8f9e-4a28-a8ad-4db9a0257295" name="Changes" comment="" />
+      <created>1661052142077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661052142077</updated>
+    </task>
+    <task id="LOCAL-00001" summary="one">
+      <created>1661088525640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661088525640</updated>
+    </task>
+    <task id="LOCAL-00002" summary="twe">
+      <created>1661090761120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661090761120</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="one" />
+    <MESSAGE value="twe" />
+    <option name="LAST_COMMIT_MESSAGE" value="twe" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/haiyangchuan$ParamterTest.ic" NAME="ParamterTest 覆盖结果" MODIFIED="1661611631457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.paramter.*</FILTER>
+    </SUITE>
+  </component>
+</project>
