@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="suitename">
+    <test name="suitename">
+        <classes>
+            <class name="org.example.groups.GroupsOnMethod1"/>
+            <class name="org.example.groups.GroupsOnMethod2"/>
+            <class name="org.example.groups.GroupsOnMethod3"/>
+        </classes>
+    </test>
+    <test name="onlysuitename">
+        <groups>
+            <run>
+                <include name="teacher"/> //表示这个test，只运行类上面有groups组 的这个组名
+            </run>
+        </groups>
+        <classes>
+            <class name="org.example.groups.GroupsOnMethod1"/>
+            <class name="org.example.groups.GroupsOnMethod2"/>
+            <class name="org.example.groups.GroupsOnMethod3"/>
+        </classes>
+    </test>
+</suite>
