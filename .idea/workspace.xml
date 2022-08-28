@@ -4,30 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c513175f-8f9e-4a28-a8ad-4db9a0257295" name="Changes" comment="twe">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/haiyangchuan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/groups/GroupsOnMethod1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/groups/GroupsOnMethod2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/groups/GroupsOnMethod3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/multiThread/MultiThreadOnAnnotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/multiThread/MultiThreadOnXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/paramter/DateProvoiderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/paramter/ParamterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/suite/DependTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/suite/ExpectedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/suite/TimeOutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/resources/Paramter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/resources/groupsOnClass.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_maven/src/main/resources/multiThread.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo_maven/src/main/java/org/example/suite/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_maven/src/main/resources/suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo_maven/src/main/resources/suite.xml" afterDir="false" />
+    <list default="true" id="c513175f-8f9e-4a28-a8ad-4db9a0257295" name="Changes" comment="testng标注部分">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/src/main/java/org/example/demo/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/src/main/java/org/example/demo/testMethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/test-output/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_maven/demo_maven.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/haiyangchuan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +38,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -60,6 +58,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -77,13 +76,24 @@
       <recent name="org.example" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\home\jb\interf\haiyangchuan\demo2\src\main\java\org\example\demo" />
       <recent name="D:\home\jb\interf\haiyangchuan\demo_maven\src\main\java\org\example\suite" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example.groups" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TimeOutTest">
+  <component name="RunManager" selected="TestNG.D:/home/jb/interf/haiyangchuan/demo2/src/main/resources/testng.xml">
+    <configuration name="D:/home/jb/interf/haiyangchuan/demo2/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo2" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/demo2/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="D:/home/jb/interf/haiyangchuan/demo_maven/src/main/resources/multiThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="demo_maven" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/demo_maven/src/main/resources/multiThread.xml" />
@@ -104,16 +114,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateProvoiderTest (4)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demo_maven" />
+    <configuration name="testMethodsDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.paramter.*" />
+          <option name="PATTERN" value="org.example.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.paramter" />
-      <option name="MAIN_CLASS_NAME" value="org.example.paramter.DateProvoiderTest" />
+      <option name="PACKAGE_NAME" value="org.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="org.example.demo.testMethodsDemo" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -121,51 +131,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateProvoiderTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demo_maven" />
+    <configuration name="testMethodsDemo.logDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.paramter.*" />
+          <option name="PATTERN" value="org.example.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.paramter" />
-      <option name="MAIN_CLASS_NAME" value="org.example.paramter.DateProvoiderTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="org.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="org.example.demo.testMethodsDemo" />
+      <option name="METHOD_NAME" value="logDemo" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreadOnAnnotion" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demo_maven" />
+    <configuration name="testMethodsDemo.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.multiThread.*" />
+          <option name="PATTERN" value="org.example.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.multiThread" />
-      <option name="MAIN_CLASS_NAME" value="org.example.multiThread.MultiThreadOnAnnotion" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimeOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="demo_maven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.suite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.suite" />
-      <option name="MAIN_CLASS_NAME" value="org.example.suite.TimeOutTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="org.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="org.example.demo.testMethodsDemo" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -174,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TimeOutTest" />
+        <item itemvalue="TestNG.D:/home/jb/interf/haiyangchuan/demo2/src/main/resources/testng.xml" />
         <item itemvalue="TestNG.D:/home/jb/interf/haiyangchuan/demo_maven/src/main/resources/multiThread.xml" />
-        <item itemvalue="TestNG.MultiThreadOnAnnotion" />
-        <item itemvalue="TestNG.DateProvoiderTest" />
-        <item itemvalue="TestNG.DateProvoiderTest (4)" />
+        <item itemvalue="TestNG.testMethodsDemo" />
+        <item itemvalue="TestNG.testMethodsDemo.logDemo" />
+        <item itemvalue="TestNG.testMethodsDemo.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661090761120</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="testng标注部分">
+      <created>1661663799276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661663799276</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testng标注部分">
+      <created>1661663916574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661663916574</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,16 +222,40 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="one" />
     <MESSAGE value="twe" />
-    <option name="LAST_COMMIT_MESSAGE" value="twe" />
+    <MESSAGE value="testng标注部分" />
+    <option name="LAST_COMMIT_MESSAGE" value="testng标注部分" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="9" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
