@@ -1,0 +1,78 @@
+[
+  {
+    "description": "这个是我们的第一个mock例子",
+    "request": {
+      "uri": "/demo1",
+      "method": "get"
+    },
+    "response": {
+      "text":"响应的get没有参数"
+    }
+  },
+  {
+    "description": "这个是我们的第二个mock例子",
+    "request": {
+      "uri": "/demo2",
+      "method": "get",
+      "queries": {
+        "name": "huhansan",
+        "age": "18"
+      }
+    },
+    "response": {
+      "text":"响应的get没有参数+:huhans18"
+    }
+  },
+  {
+    "description": "这个是我们的第3个post带cookiesmock例子",
+    "request": {
+      "uri": "/demo3",
+      "method": "post",
+      "cookies": {
+        "longin": "true"
+      },
+      "json": {
+        "name": "huhansan",
+        "age": "18"
+      }
+    },
+    "response": {
+      "status": 200,
+      "text":"响应的get没有参数+:huhans18"
+    }
+  },
+  {
+    "description": "这个是我们的第san个mock例子",
+    "request": {
+      "uri": "/demo4",
+      "method": "post",
+      "headers": {
+        "content-type": "application/json"
+      },
+      "cookies": {
+        "longin": "true"
+      },
+      "json": {
+        "name": "huhansan",
+        "age": "18"
+      }
+    },
+    "response": {
+      "status": 200,
+      "text":"响应的get没有参数+:huhans18"
+    }
+  },
+  {
+    "description": "这个是我们的第5个重定向到百度mock例子",
+    "request": {
+      "uri": "/demo5"
+    },
+    "redirectTo": "http://www.baidu.com",
+    "response": {
+      "status": 200,
+      "text": "响应的get没有参数+:huhans18"
+    }
+  }
+
+]
+
